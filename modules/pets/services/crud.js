@@ -9,7 +9,7 @@ let fakeDatabase = [
     {
         id : uuid(),
         name: "Rex",
-        type: 'Dog',
+        type: 'Doggg95',
         race: 'Buldog'
     },
     {
